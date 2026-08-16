@@ -6,7 +6,7 @@
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
   color: #2b2b2b;
-  background: linear-gradient(180deg, #f3e8ea 0%, #f4f5f7 320px);
+  background: linear-gradient(180deg, #f7f0e6 0%, #f4f5f7 320px);
   margin: 0;
   padding: 0;
   line-height: 1.5;
@@ -20,7 +20,7 @@ main, body > * {
 
 /* ---------- Header ---------- */
 header {
-  background: linear-gradient(135deg, #6e2536 0%, #4a1824 100%);
+  background: linear-gradient(135deg, #8a4f5a 0%, #6b3a44 100%);
   color: #ffffff;
   padding: 2.5rem 2rem 1.5rem;
   max-width: none;
